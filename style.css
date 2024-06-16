@@ -1,0 +1,133 @@
+body {
+    background-color: #025adf;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 80vh;
+    padding: 50px;
+}
+
+.start {
+    color: #eaf7ee;
+    padding: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 70px;
+    height: 20px;
+}
+
+.good {
+    background-color: #eaf7ee;
+    color: #FFF;
+    width: 300px;
+    padding: 30px;
+    border-radius: 20px;
+    margin-left: 10px;
+    box-shadow: 1px 1px 50px rgba(0, 0, 0, 0.5);
+}
+
+.container-fluid {
+    padding: 50px;
+    color: #000;
+    margin-left: 80px;
+    font-size: 50px;
+}
+
+.love {
+    color: #1135bd;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.book {
+    margin-left: 15px;
+    color: #213a63;
+    font-family: sans-serif;
+    padding: 15px;
+}
+
+.whatsapp {
+    margin-left: 225px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.number {
+    background-color: #a6bbd0;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 1px;
+}
+
+.quick {
+    color: #a6bbd0;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+.stop {
+    margin-left: 50px;
+}
+
+hr {
+    
+}
+
+.morning {
+      color: #1b2761;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 30px;
+      font-weight: bold;
+      font-size: 25px;
+      font-family: sans-serif;
+      margin-top: 30px;
+}
+
+
+
+hr {
+    margin-top: 30px;
+}
+
+.kiss {
+    font-size: 17px;
+}
+
+.years {
+      color: #1b2761;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      font-weight: bold;
+      font-size: 12px;
+      margin-top: 20px;
+      font-family: sans-serif;
+}
+
+.going {
+    
+}
+
+.close {
+    color: #1b2761;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+
+
